@@ -6,10 +6,14 @@ This tool is used to convert rpk file to Anki apkg.
 
 
 # 下载 & 使用
-前往 [Releases|https://github.com/ssqyang/rpk2apkg/releases]　下载已经打包好的程序。
+前往 https://github.com/ssqyang/rpk2apkg/releases　下载已经打包好的程序。
 
 本项目完全开源，如果不放心，可以或者按下面的方法自行打包。
 
+## 如何导出RPK包？
+在记乎卡编器里，按截图导出
+
+![jihu export](https://user-images.githubusercontent.com/89735777/131478910-76b2ced4-c328-421b-bc64-786df19805c7.png)
 
 
 
